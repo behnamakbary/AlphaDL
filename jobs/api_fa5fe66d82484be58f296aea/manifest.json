@@ -1,0 +1,27 @@
+{
+  "job_id": "api_fa5fe66d82484be58f296aea",
+  "mode": "zip_split",
+  "file_url": "https://free-dl2.myalphadl.com/IjVWDDab9u_0coMMjR_m_A/Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD.mkv",
+  "suggested_filename": "Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD.mkv",
+  "total_size_bytes": 280473993,
+  "created_at_utc": "2026-05-25T02:55:58.491820+00:00",
+  "zip_folder": "jobs/api_fa5fe66d82484be58f296aea/zip",
+  "zip_main_file": "Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+  "zip_parts": [
+    {
+      "name": "Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z01",
+      "path": "jobs/api_fa5fe66d82484be58f296aea/zip/Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z02",
+      "path": "jobs/api_fa5fe66d82484be58f296aea/zip/Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+      "path": "jobs/api_fa5fe66d82484be58f296aea/zip/Himekishi.Wa.B.N.Y.S01E01.1080p.WEB-DL.x265.10bit.ASW.AD_split.zip",
+      "size_bytes": 91730587
+    }
+  ]
+}
